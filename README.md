@@ -25,3 +25,36 @@
 <!--   ![Snake animation](https://github.com/lhneves/lhneves/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
+ {
+    "workbench.colorTheme": "Dracula Soft",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "php": "C:\\php\\php.exe",
+        "python": "python",
+        "perl": "perl",
+        "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+        "go": "go run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    },
+    "git.autofetch": true,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "explorer.compactFolders": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnSave": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestionsDelay": 5,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.tabSize": 2
+}
