@@ -26,7 +26,7 @@
  <img align="center" alt="Luiz-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  
  
-  <img src="https://github.com/lhneves/lhneves/blob/main/brazil.gif" width="160" border="0" align="right" alt="side Image" />
+ [//]: <img src="https://github.com/lhneves/lhneves/blob/main/brazil.gif" width="160" border="0" align="right" alt="side Image" />
 </div>  
 
   ##
